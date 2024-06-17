@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+header{
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+}
+
+main p{
+    background-color: rgb(129, 162, 189);
+    color: white;
+}
+
+.logo {
+    width: 350px;
+}
+h1{
+    text-align: center;
+    color: rgb(230, 165, 69);
+}
+nav{
+    margin: 20px 0px;
+    padding: 20px 0px;
+    background-color: rgb(104, 149, 187);
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: beige;
+}
+footer {
+    padding: 10px;
+    margin-top: 20px;
+}
+.contact {
+    background-color: rgb(230, 165, 69);
+    text-decoration: none;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size: 25px;
+    color: wheat;
+}
